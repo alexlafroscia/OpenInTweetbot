@@ -9,9 +9,7 @@ Currently, it supports User pages, Tweet pages, and the Timeline (sort of, but I
 
 Installing OIT is pretty easy, but does take a little bit of work because Chrome doesn't really like to support installing .crx files from outside of it's App Store anymore.  However, I will provide them bundled with the raw files, if that's your thing.  I'll go over how to install it from the raw files here.
 
-1. Go to the extension page
-
-This can be done by Right-Clicking where the extensions live next to the Omnibar, or by goign to Tools > Extensions
+1. Go to the extension page. This can be done by Right-Clicking where the extensions live next to the Omnibar, or by goign to Tools > Extensions
 
 2. Select the radio button for "Developer Mode"
 
