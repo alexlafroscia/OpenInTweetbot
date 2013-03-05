@@ -1,0 +1,13 @@
+{
+  "name": "Open in Tweetbot",
+  "version": "1.0",
+  "background": { "scripts": ["background.js"] },
+  "permissions": [
+    "tabs", "http://*/*"
+  ],
+  "page_action": {
+      "default_icon": "icon.png",
+      "default_name": "Click to Open Page in Tweetbot"
+  },
+  "manifest_version": 2
+}
