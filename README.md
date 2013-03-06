@@ -1,4 +1,9 @@
 # Open In Tweetbot
+
+by Alex LaFroscia
+Tw: @AlexLaFroscia
+[E: webdesign [at] alexlafroscia.com](mailto://webdesign@alexlafroscia.com)
+
 ***
 Open In Tweetbot (OIT) is a Chrome extension for opening a Twitter page directly in Tweetbot for Mac instead.
 
