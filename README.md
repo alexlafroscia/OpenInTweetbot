@@ -1,7 +1,9 @@
 # Open In Tweetbot
 
 by Alex LaFroscia
+
 Tw: @AlexLaFroscia
+
 [E: webdesign [at] alexlafroscia.com](mailto://webdesign@alexlafroscia.com)
 
 ***
@@ -36,7 +38,8 @@ Simple as that, folks.
 ***
 ## Known Issues
 
-* A blank tab is opened along with Tweetbot
+[x] A blank tab is opened along with Tweetbot
+[ ] Activating OIT only works about every other time, but I think this is an issue with TweetBot's URL scheme, not my extension
 
 ***
 
